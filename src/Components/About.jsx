@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Proud sister & Future-driven AI Algorithm Engineer & Computer System Engineering PhD Student at University of Auckland & Specializing in Machine Learning, Deep Learning, Data Mining and Anomaly Detection";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Kitty Li received a Bachelor of Science (Hons.) degree in Computer Science and a master's degree in Computer Science from the Department of Science, the University of Auckland, New Zealand, in 2016 and 2021, respectively. She is currently a PhD student in Computer System Engineering at the University of Auckland. She is familiar with machine learning and especially anomaly detection techniques. Her current research focuses on anomaly detection for sensor time series.";
 
 const About = () => {
   return (
